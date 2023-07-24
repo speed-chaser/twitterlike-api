@@ -1,0 +1,1 @@
+{"_id":{"$oid":"64bda8551f45b921aceb69e3"},"author":{"$oid":"64bda5951f45b921aceb69e2"},"media":[{"type":"image","url":"exampleurl/image.png"},{"type":"video","url":"exampleurl/video.png"}],"content":"Check this out!","createdAt":{"$date":"2023-07-23T00:00:00Z"}}
